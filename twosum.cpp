@@ -1,4 +1,4 @@
-//g++ twosum.cpp -o twosustd=c++11
+//g++ twosum.cpp -o twosum -std=c++11
 
 #include <vector>
 #include <iostream>
